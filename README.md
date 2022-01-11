@@ -14,7 +14,7 @@
 
 5) Copy and paste the IP given
 - Located on the line saying ```"Running on [IP]"```
-- Should be ```127.0.0.1```, although I'm not 100% on that
+- Should be ```http://127.0.0.1:5000/```, although I'm not 100% on that
 
 6) Paste the IP into your web browser of choice.
 
