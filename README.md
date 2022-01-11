@@ -1,1 +1,22 @@
-# Shopify-Thing
+# User Guide :)
+
+**Dependencies**: Python 3.8, Flask, SQLAlchemy
+
+1) Install Python 3.8 https://www.python.org/downloads/
+- Full installation guide here: https://docs.python.org/3/using/windows.html
+- Add Python to PATH also
+
+2) Get Flask and SQLAlchemy
+- *Type in terminal/commandprompt*: `pip install flask` and `pip install SQLAlchemy`
+
+3) Download my code (all files)
+
+4) Run the `CRUD.py` file
+
+5) Copy and paste the IP given
+- Located on the line saying `"Running on [IP]"'
+- Should be `127.0.0.1`, although I'm not 100% on that
+
+6) Paste the IP into your web browser of choice.
+
+Done.
