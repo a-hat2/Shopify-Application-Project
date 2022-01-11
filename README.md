@@ -13,8 +13,8 @@
 4) Run the `CRUD.py` file with Python
 
 5) Copy and paste the IP given
-- Located on the line saying `"Running on [IP]"'
-- Should be `127.0.0.1`, although I'm not 100% on that
+- Located on the line saying ```"Running on [IP]"'``
+- Should be ```127.0.0.1```, although I'm not 100% on that
 
 6) Paste the IP into your web browser of choice.
 
