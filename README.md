@@ -6,7 +6,7 @@
 - Full installation guide here: https://docs.python.org/3/using/windows.html
 
 2) Get Flask and SQLAlchemy
-- *Type in terminal/commandprompt*: `pip install flask`, `SQLite` and `pip install SQLAlchemy`
+- *Type in terminal/commandprompt*: `pip install flask`, `pip install SQLite` and `pip install SQLAlchemy`
 
 3) Download my code (all files)
 
