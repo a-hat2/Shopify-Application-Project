@@ -1,12 +1,12 @@
 # User Guide :)
 
-**Dependencies**: Python 3.8, Flask, SQLAlchemy, SQLite
+**Dependencies**: Python 3.8, Flask, SQLAlchemy
 
 1) Install Python 3.8 https://www.python.org/downloads/
 - Full installation guide here: https://docs.python.org/3/using/windows.html
 
 2) Get Flask and SQLAlchemy
-- *Type in terminal/commandprompt*: `pip install flask`, `pip install SQLite` and `pip install SQLAlchemy`
+- *Type in terminal/commandprompt*: `pip install flask` and `pip install SQLAlchemy`
 
 3) Download my code (all files)
 
